@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:adelevie/parse_resource.git
+  remote: git://github.com/adelevie/parse_resource.git
   revision: 7851169f01ba65c4735d5b703b7d0bc1b097f0f0
   specs:
     parse_resource (1.7.1)

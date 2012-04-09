@@ -16,7 +16,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
-gem 'parse_resource', :git => 'git@github.com:adelevie/parse_resource.git'
+gem 'parse_resource', :git => 'git://github.com/adelevie/parse_resource.git'
 gem 'omniauth'
 gem 'omniauth-dropbox'
 gem 'dropbox-api'
