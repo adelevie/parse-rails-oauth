@@ -1,3 +1,7 @@
+# Demo
+
+[Here](http://parse-rails-oauth.heroku.com/).
+
 # About
 
 This is a simple Rails 3.1 app that makes it easy to link OAuth APIs to Parse user accounts.
