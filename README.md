@@ -1,6 +1,6 @@
 # About
 
-This is a simple Rails 3.1 app that makes it easy to link third-party APIs to Parse user accounts.
+This is a simple Rails 3.1 app that makes it easy to link OAuth APIs to Parse user accounts.
 
 If you just want a Rails app with a Parse auth system, and no OAuth, check out [parse-rails-boilerplate](http://github.com/adelevie/parse-rails-boilerplate). This project is based on it.
 
