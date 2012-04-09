@@ -24,7 +24,7 @@ Create a `parse_resource.yml` file. Instructions [here](https://github.com/adele
 
 Read up on [OmniAuth](https://github.com/intridea/omniauth). It's pretty awesome.
 
-Add the appropriate strategies and API keys to `config/initializers/omniauth.rb`. I've included Dropbox (just use your own API keys).
+Add the appropriate strategies and API keys to `config/initializers/omniauth.rb`. I've included Dropbox (just use your own API keys). Take a look at `app/models/user.rb`. The method `User#dropbox_client` shows a simple implementation of using a client library with this project.
 
 `rails s` and enjoy.
 
